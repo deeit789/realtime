@@ -1,0 +1,47 @@
+html,
+body {
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-size: 62.5%;
+  min-width: 100vh;
+  overflow: hidden;
+}
+
+.content {
+  font-size: 2.4rem;
+  color: #000000;
+  width: 100%;
+  padding: 5rem;
+}
+
+.time {
+  font-size: 20vw;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.gmt,
+.timezone {
+  font-size: 10rem;
+  text-align: center;
+}
+
+.log {
+  font-size: 5rem;
+  margin-top: 10rem;
+  text-align: center;
+}
+
+.log p {
+  margin-top: 3rem;
+}
+
+.lbl-ip {
+  font-size: 10vw;
+  font-weight: bold;
+}
+.ip {
+  font-style: italic;
+}
